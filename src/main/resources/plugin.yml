@@ -1,0 +1,10 @@
+name: DDGVanish
+version: ${project.version}
+main: nl.tacticaldev.ddgvanish.DDGVanish
+authors: [TacticalDev]
+description: Een plugin om spelers te verbergen voor andere spelers
+commands:
+  vanish:
+    description: "Vanish command"
+    aliases:
+      - v
